@@ -42,8 +42,7 @@ Oculus Air link를 통해 데스크톱 Unity와 연결하여 개발함<br>
 
 <br><br>
 ## 핸드 모델 및 참고 출처 :page_with_curl:
-핸드 모델 : https://kkamysgame.blogspot.com/2020/11/kkamy-kart-racing.html<br>
-참고 영상 : https://www.youtube.com/playlist?list=PLrk7hDwk64-a_gf7mBBduQb3PEBYnG4fU
+https://www.youtube.com/playlist?list=PLrk7hDwk64-a_gf7mBBduQb3PEBYnG4fU
 
 <br><br><br>
 <p align="right">(<a href="#top">back to top</a>)</p>
